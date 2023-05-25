@@ -39,7 +39,7 @@ export const zerionWallet = ({
       qrCode: 'https://link.zerion.io/pt3gdRP0njb',
       chrome:
         'https://chrome.google.com/webstore/detail/klghhnkeealcohjjanjjdaeeggmfmlpl',
-      browserExtension: 'https://zerion.io/extension',
+      browserExtension: 'https://zerion.io',
     },
     createConnector: () => {
       const connector = shouldUseWalletConnect
